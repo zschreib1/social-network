@@ -19,12 +19,12 @@ I completed the implementation of a social network that allows users to **make p
 - *“Like” and “Unlike”*: Users should be able to click a button or link on any post to toggle whether or not they “like” that post.
 
 
-Visit the [Harvard CS50W](https://cs50.harvard.edu/web/2020/projects/4/network/) website for more information about the requirements for the project. Please do **not** directly use the source code as it is **only** for reference. Plagiarism is strictly prohibited by both Harvard University and the edX platform. See academic honesty for details.
-
-
 
 ## How to run the web app
 First, make sure you have **Django** installed, then:
 - Run **python manage.py makemigrations network** to make migrations for the network app.
 - Run **python manage.py migrate** to apply migrations to the database.
 - Run **python manage.py runserver** to start up the Django web server, and visit the website in your browser. 
+
+
+Please visit the [Harvard CS50W](https://cs50.harvard.edu/web/2020/projects/4/network/) website for more information about the requirements for the project. Please do **not** directly use the source code as it is **only** for reference. Plagiarism is strictly prohibited by both Harvard University and the edX platform. See academic honesty for details.
