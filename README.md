@@ -22,6 +22,7 @@ Visit the [Harvard CS50W](https://cs50.harvard.edu/web/2020/projects/4/network/)
 
 
 ## How to run the web app
+In your terminal, cd into the project4 directory.
 - Run **python manage.py makemigrations network** to make migrations for the network app.
 - Run **python manage.py migrate** to apply migrations to the database.
 - Run **python manage.py runserver** to start up the Django web server, and visit the website in your browser. 
