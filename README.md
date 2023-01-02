@@ -18,7 +18,9 @@ I completed the implementation of a social network that allows users to **make p
 - *Edit Post*: Users should be able to click an “Edit” button or link on any of their own posts to edit that post.
 - *“Like” and “Unlike”*: Users should be able to click a button or link on any post to toggle whether or not they “like” that post.
 
+
 Visit the [Harvard CS50W](https://cs50.harvard.edu/web/2020/projects/4/network/) website for more information about the requirements for the project. Please do **not** directly use the source code as it is **only** for reference. Plagiarism is strictly prohibited by both Harvard University and the edX platform. See academic honesty for details.
+
 
 
 ## How to run the web app
